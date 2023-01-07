@@ -1,0 +1,18 @@
+npm start
+npm install -g create-react-app
+npx create-react-app app-react
+npm i react-router-dom
+npm install axios
+npm i query-string
+npm i redux react-redux
+npm i bootstrap jquery --save
+npm i moment
+npm install react-datepicker --save
+npm install --save sfcookies
+npm install --save styled-components
+rm -r node_modules
+npm run build
+
+rfce => function
+
+rce => class
